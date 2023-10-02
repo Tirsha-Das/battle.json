@@ -1,0 +1,344 @@
+[
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Riverlands",
+            "name": "Battle of the Whispering Wood"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 1875,
+            "min": 1875,
+            "max": 1875
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Riverlands",
+            "name": "Battle of the Camps"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 6000,
+            "min": 6000,
+            "max": 6000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Westerlands",
+            "name": "Battle of Riverrun"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 10000,
+            "min": 10000,
+            "max": 10000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Balon/Euron Greyjoy",
+            "region": "The Westerlands",
+            "name": "Battle of Oxcross"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 6000,
+            "min": 6000,
+            "max": 6000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of the Fords"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 2000,
+            "min": 2000,
+            "max": 2000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Renly Baratheon",
+            "defender_king": "Stannis Baratheon",
+            "region": "The Stormlands",
+            "name": "Battle of Storm's End"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 20000,
+            "min": 20000,
+            "max": 20000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Joffrey/Tommen Baratheon",
+            "defender_king": "Robb Stark",
+            "region": "The Riverlands",
+            "name": "Battle of the Crag"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 6000,
+            "min": 6000,
+            "max": 6000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Joffrey/Tommen Baratheon",
+            "defender_king": "Robb Stark",
+            "region": "The Riverlands",
+            "name": "Battle of the Blackwater"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["siege"],
+        "defender_size": {
+            "average": 7250,
+            "min": 7250,
+            "max": 7250
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Balon/Euron Greyjoy",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of Winterfell"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 20000,
+            "min": 20000,
+            "max": 20000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Joffrey/Tommen Baratheon",
+            "defender_king": "Balon/Euron Greyjoy",
+            "region": "The Westerlands",
+            "name": "Battle of the Stony Shore"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 264,
+            "min": 264,
+            "max": 264
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Riverlands",
+            "name": "Battle of the Blackwater"
+        },
+        "attacker_outcome": {
+            "win": 1,
+            "loss": 0
+        },
+        "battle_type": ["siege"],
+        "defender_size": {
+            "average": 7250,
+            "min": 7250,
+            "max": 7250
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Stannis Baratheon",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Stormlands",
+            "name": "Battle of Duskendale"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 3000,
+            "min": 3000,
+            "max": 3000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Balon/Euron Greyjoy",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of Torrhen's Square"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["pitched battle"],
+        "defender_size": {
+            "average": 244,
+            "min": 244,
+            "max": 244
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Westerlands",
+            "name": "Battle of the Blackwater Rush"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["siege"],
+        "defender_size": {
+            "average": 7250,
+            "min": 7250,
+            "max": 7250
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Balon/Euron Greyjoy",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of Deepwood Motte"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 1000,
+            "min": 1000,
+            "max": 1000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Riverlands",
+            "name": "Battle of the Fords"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 2000,
+            "min": 2000,
+            "max": 2000
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Balon/Euron Greyjoy",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of the Stony Shore"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 264,
+            "min": 264,
+            "max": 264
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Robb Stark",
+            "defender_king": "Joffrey/Tommen Baratheon",
+            "region": "The Westerlands",
+            "name": "Battle of the Blackwater Rush"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["siege"],
+        "defender_size": {
+            "average": 7250,
+            "min": 7250,
+            "max": 7250
+        }
+    },
+    {
+        "most_active": {
+            "attacker_king": "Balon/Euron Greyjoy",
+            "defender_king": "Robb Stark",
+            "region": "The North",
+            "name": "Battle of Deepwood Motte"
+        },
+        "attacker_outcome": {
+            "win": 0,
+            "loss": 1
+        },
+        "battle_type": ["ambush"],
+        "defender_size": {
+            "average": 1000,
+            "min": 1000,
+            "max": 1000
+        }
+    }
+]
